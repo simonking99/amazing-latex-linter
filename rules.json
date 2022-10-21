@@ -1,0 +1,23 @@
+{
+  "newline_after_Dot": [
+    {
+      "index0": ". ",
+      "index1": ".\n"
+    }
+  ],
+  "space_after_Percent": [
+    {
+      "index0": "%",
+      "index1": "% "
+    }
+  ],
+  "intention_tabs": [
+    {
+      "begin_marker": "\\begin",
+      "end_marker": "\\end",
+      "excludable_marker": "\\begin{document}",
+      "index0": "\\item",
+      "index1": "    \\item"
+    }
+  ]
+}
